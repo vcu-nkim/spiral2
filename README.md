@@ -1,4 +1,4 @@
-# spiral
+# spiral2
 
 [![Python package](https://github.com/vcu-nkim/spiral2/actions/workflows/pytest.yml/badge.svg)](https://github.com/vcu-nkim/spiral2/actions/workflows/pytest.yml)
 
