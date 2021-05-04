@@ -1,5 +1,5 @@
 def spiralize(size, n=1):
-    x = 1
+    x = n
     counter = 0
     incrt = 2
     total = 0
@@ -11,5 +11,5 @@ def spiralize(size, n=1):
         if counter == 4:
             incrt += 2
             counter = 0
-    return_value = n
+    return_value = total
     return return_value
