@@ -1,5 +1,4 @@
 def spiralize(size, n=1):
-   def spiralize(size, n=1):
     x = 1
     counter = 0
     incrt = 2
